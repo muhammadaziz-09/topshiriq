@@ -1,4 +1,4 @@
-from  aiogram.types import Message
+from aiogram.types import Message
 from aiogram import Bot, Dispatcher, executor
 from aiogram.types.reply_keyboard import ReplyKeyboardMarkup, KeyboardButton
 
